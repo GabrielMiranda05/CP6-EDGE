@@ -1,4 +1,7 @@
 ## Projeto: Controle de LED e Monitoramento de Temperatura e Umidade com ESP32
+Desenvolvido por: Alunos da FIAP Paulista 1ESPK - Gabriel Miranda RM559102 
+                  / Kheyla Thais RM558434
+
 ### Descrição
 Este projeto utiliza um microcontrolador ESP32 para controlar um LED onboard e monitorar a temperatura e a umidade ambiente com um sensor DHT11. Os dados são enviados para um broker MQTT, permitindo o controle remoto e a visualização das informações em tempo real.
  

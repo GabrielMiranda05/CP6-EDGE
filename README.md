@@ -58,4 +58,4 @@ Efetue essa configuração no node-red após inicia-lo
 
 após isso, clique para visualizar o dashboard no canto superior direito, uma nova aba ira abrir com esse retorno 
 
-<img src="image(1).png">
+<img src="image (1).png">
